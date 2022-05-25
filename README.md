@@ -1,5 +1,7 @@
 # python - technical requirements #220525-11 
 
+[Список задач](https://github.com/busiqOwner/TR_python_220525-11/blob/ac4e669d8e27e392c1bef80128fd52f0840452e5/TODO.md)
+
 ## Есть
 Сеть серверов. 
 Добавляем чистый сервер Ubuntu 20
