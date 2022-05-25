@@ -1,8 +1,8 @@
 # Задачи по проекту #220525-11
 
 ## Следующие шаги:
-- Сделать `f_get ( ) `
-    https://www.andreyolegovich.ru/code/python/rest_api.php
+- Сделать `f_get ( ) ` 
+    [инструкция](https://www.andreyolegovich.ru/code/python/rest_api.php)
 - Настроить возможность вызова извне
 - Настроить возможность подключения `import x from y`
 - Сделать обработчик всех возможных ошибок
