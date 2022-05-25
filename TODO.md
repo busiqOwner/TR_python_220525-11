@@ -4,8 +4,8 @@
 - Сделать `lkj` до
 
 
-| Задача        | Кто делает    | Бюджет|
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Задача                 | Кто делает    | Бюджет|
+| ---------------------- |:-------------:| -----:|
+| col 3 is               | right-aligned | $1600 |
+| col 2 is               | centered      |   $12 |
+| zebra stripes          | are neat      |    $1 |
